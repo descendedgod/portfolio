@@ -27,11 +27,12 @@ export default function Home() {
         <div className="container mx-auto text-center">
           <div className="mb-8">
             <img 
-              src="https://readdy.ai/api/search-image?query=Professional%20headshot%20of%20a%20confident%20young%20African%20network%20engineer%20in%20dark%20clothing%20against%20a%20dark%20background%20with%20subtle%20green%20lighting%20accents%2C%20cybersecurity%20theme%2C%20modern%20tech%20professional%20portrait%2C%20high%20contrast%20dramatic%20lighting%2C%20serious%20expression%2C%20tech%20industry%20professional&width=300&height=400&seq=engineer-headshot&orientation=portrait"
+              src="me.jpg"
               alt="Professional Headshot"
               className="w-48 h-64 mx-auto rounded-lg border-2 border-green-400/50 object-cover object-top shadow-lg shadow-green-400/20"
             />
           </div>
+          <h1 className="text-5xl font-bold mb-4">Bertram Brian Chabu</h1>
           <h1 className="text-5xl font-bold mb-4">
             <span className="text-white">Network &</span>
             <br />
